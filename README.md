@@ -21,7 +21,7 @@ Organization: SunPy in OpenAstronomy
 
           Major: Computer Science and Engineering
 
--   Current Year: 1^st^
+          Current Year : 1st
 
           Graduate Year: 2019
 
@@ -30,68 +30,68 @@ Organization: SunPy in OpenAstronomy
           Intermediate in  C language
  
           I recently  worked with a Professor on a research project
-related to dark matter, dark energy, Gravitational waves in which I
-worked with GNU plots and also involved a lot of C programming as well.
+         related to dark matter, dark energy, Gravitational waves in which I
+         worked with GNU plots and also involved a lot of C programming as well.
 
           Intermediate knowledge of Python and Python for Data Science.
-I started learning Python about 2 months ago.
+         I started learning Python about 2 months ago.
 
-I am comfortable in writing programs in Python. Also, I am pretty
-comfortable working  with Matplotlib.
+  			I am comfortable in writing programs in Python. Also, I am pretty
+			comfortable working  with Matplotlib.
 
           I did workout all the sample examples given in the
-documentation analyzed on changing a particular attribute what changes
-come to the LightCurve/Maps.
+			documentation analyzed on changing a particular attribute what changes
+			come to the LightCurve/Maps.
 
           I am comfortable working with Git/Github.
 
 4.       **Proposal Abstract**
 
           I intend to take up the SunPy Gallery, Docs, Website upgrades
-idea. This would involve some research on the SunPy existing tutorials
-i.e. Lightcurve tutorial, SunPy overview and SunPy 0.6 Release Preview 
-(which support Jupyter )as well as on the existing map and Lightcurves
-submodules, data clipping, masking, map cubing etc.
+			idea. This would involve some research on the SunPy existing tutorials
+			i.e. Lightcurve tutorial, SunPy overview and SunPy 0.6 Release Preview 
+			(which support Jupyter )as well as on the existing map and Lightcurves
+			submodules, data clipping, masking, map cubing etc.
 
           Also it would involve improving the SunPy documentation making
-it more interactive for new users. Inserting more information on these (
-Plotting in SunPy, Time in SunPy,Region of interest, Customizing SunPy)
-would be my aim
+			it more interactive for new users. Inserting more information on these (
+			Plotting in SunPy, Time in SunPy,Region of interest, Customizing SunPy)
+			would be my aim
 
           The work on the website of SunPy involves  writing blogs
-improving documentation.
+			improving documentation.
 
           For plotting I would use Matplotlib.
 
           I did checkout the SEP\_007 so I am pretty familiar with what
-has been done till now on SunPy.
+			has been done till now on SunPy.
 
 5.       **Software Packages  to be used**
 
-Numpy, Matplotlib,Scipy,Astropy
+			Numpy, Matplotlib,Scipy,Astropy
 
  
 
 6.       **How will I complete the Project**
 
           I started  looking into SunPy about 2-3 weeks back. I was
-pretty active on IRC asking out mentors about SunPy. I am pretty
-familiar with the software now. My main task is to look into all the
-things I could do with Jupyter Notebooks(as I don’t know much about it).
-On the programming part, i keep looking into Python Docs, Edx courses.
+			pretty active on IRC asking out mentors about SunPy. I am pretty
+			familiar with the software now. My main task is to look into all the
+			things I could do with Jupyter Notebooks(as I don’t know much about it).
+			On the programming part, i keep looking into Python Docs, Edx courses.
 
           I will go through the documentation again and again so that I
-can make it better and better. Since the topic in spotlight is
-LightCurves so I will try to add to the documentation of LightCurves as
-much as possible.
+			can make it better and better. Since the topic in spotlight is
+			LightCurves so I will try to add to the documentation of LightCurves as
+			much as possible.
 
           I am a beginner and did go through SunPy documentation lately,
-so I remember on which topics I faced issues so will try to include them
-so that new users don't face the issues I faced
+			so I remember on which topics I faced issues so will try to include them
+			so that new users don't face the issues I faced
 
           The website's gallery tab is in beta version so I will try to
-improve the gallery and also if I am able to do major changes to SunPy ,
-I will try preparing SunPy enhancement proposals(SEP).
+			improve the gallery and also if I am able to do major changes to SunPy ,
+			I will try preparing SunPy enhancement proposals(SEP).
 
  
 
@@ -100,42 +100,40 @@ I will try preparing SunPy enhancement proposals(SEP).
 7.       **Benefits to the Community**
 
           Since I started my journey of development in SunPy lately I
-might be able to address more issues that beginners face than someone
-else. The website of SunPy is still in development state until the
-completion of my project it would be in a better state than it is at
-present. Small things that otherwise may not come into notice of
-developers will be solved as my main aim would be to work on
-documentation, website etc.
+			might be able to address more issues that beginners face than someone
+			else. The website of SunPy is still in development state until the
+			completion of my project it would be in a better state than it is at
+			present. Small things that otherwise may not come into notice of
+			developers will be solved as my main aim would be to work on
+			documentation, website etc.
 
 8.       **Open Source experience**
 
           Google Code-In 2015: I participated in Google Code-In 2015 and
-was successful in completing a task under the community FOSSAsia in
-which I learned using Git, IRC, IRC etiquettes. Also, I did work on a
-Hello World example task of RTEMS organization due to which I got to
-know how to build things
+			was successful in completing a task under the community FOSSAsia in
+			which I learned using Git, IRC, IRC etiquettes. Also, I did work on a
+			Hello World example task of RTEMS organization due to which I got to
+			know how to build things
 
-          Recently I made 2 pull requests:
+          Recently I made 2 pull request		1.  [\#1710](https://github.com/sunpy/sunpy/pull/1710): It involved
+   					 change in Developer’s guide document, also changed another file for
+    					 the issue [\#1704](https://github.com/sunpy/sunpy/issues/1704).
 
-1.  [\#1710](https://github.com/sunpy/sunpy/pull/1710): It involved
-    change in Developer’s guide document, also changed another file for
-    the issue [\#1704](https://github.com/sunpy/sunpy/issues/1704).
+					2.  [\#1707](https://github.com/sunpy/sunpy/pull/1707): This pull
+    					 request tried to make a diskspace check before downloading sample
+    					 data . My work on this is still on. 
 
-2.  [\#1707](https://github.com/sunpy/sunpy/pull/1707): This pull
-    request tried to make a diskspace check before downloading sample
-    data . My work on this is still on. 
-
-I am a Ubuntu user for more than 6 months .
+			I am a Ubuntu user for more than 6 months .
 
  
 
 9.       **Deliverables**
 
-Improvement in SunPy Docs(inserting new info as well).
+			Improvement in SunPy Docs(inserting new info as well).
 
-Website improvement.
+			Website improvement.
 
-Adding Examples to SunPy gallery.
+			Adding Examples to SunPy gallery.
 
  
 
